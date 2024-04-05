@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielepanizzolo03?tab=projects](https://github.com/danielepanizzolo03?tab=projects)
 
-- 💬 Ask me about **STATISTICS, STATISTICS MODEL, PROBABILITY, MATHEMATICS, ECONOMICS, CODING**
+- 💬 Ask me about **STATISTICS, STATISTICS MODELS, PROBABILITY, MATHEMATICS, ECONOMICS, CODING**
 
 - 📫 How to reach me **danielepanizzolo3@gmail.com**
 
