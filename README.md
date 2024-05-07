@@ -10,7 +10,7 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  I'm a dedicated student at the University of Padua, where I'm studying Statistics for Economics and Business. My journey is fueled by a profound passion for numbers and their power to unlock the mysteries of economic phenomena. My approach combines rationality with critical analysis, driven by an unwavering ambition. This blend guides me as I navigate through complex theories and statistical applications, striving to understand and predict the intricacies of economics.
+  I'm a dedicated student at the University of Padua, where I'm studying Statistics for Economics and Business. My journey is fueled by a profound passion for numbers. My approach combines rationality with critical analysis, driven by an unwavering ambition. This blend guides me as I navigate through complex theories and statistical applications, striving to understand and predict the intricacies of economics.
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/danielepanizzolo03?tab=projects](https://github.com/danielepanizzolo03?tab=projects)
