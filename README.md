@@ -2,7 +2,7 @@
 
 <h3 align="center">| Statistics for Economics and Business | University of Padua</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielepanizzolo03&label=Profile%20views&color=0e75b6&style=flat-square" alt="danielepanizzolo03" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=danielepanizzolo03&label=Profile%20views&color=0e75b6&style=flat-square" alt="danielepanizzolo03" /> </p>
 
 
 <h3 align="center">About Me</h3>
