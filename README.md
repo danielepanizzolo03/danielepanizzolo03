@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=danielepanizzolo03&label=Profile%20views&color=0e75b6&style=flat-square" alt="danielepanizzolo03" /> </p>
 
 
-<h3 align="center">About Me</h3>
+<h3 align="center">About Me</h3> 
 
 <p align="center">
   I'm a dedicated student at the University of Padua, where I'm studying Statistics for Economics and Business. My journey is fueled by a profound passion for numbers. My approach combines rationality with critical analysis, driven by an unwavering ambition. This blend guides me as I navigate through complex theories and statistical applications, striving to understand and predict the intricacies of economics.
